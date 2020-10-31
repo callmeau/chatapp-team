@@ -1,0 +1,20 @@
+#avatar{
+    margin-top: 40px;
+}
+
+.menu-bar-text{
+    display: inline;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.menu-bar-icon{
+    display: inline;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+#log-out{
+    width: 100%;
+    bottom:20%;
+}

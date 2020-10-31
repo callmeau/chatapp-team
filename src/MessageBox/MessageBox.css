@@ -1,0 +1,6 @@
+.message-sender-container {
+    position: absolute;
+    width: 100%;
+    border-top: 4px solid #1c1e2a;
+    bottom: 0;
+}

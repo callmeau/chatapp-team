@@ -1,0 +1,7 @@
+.contact-item-avatar {
+    position: relative;
+    justify-content: center;
+    display: inline;
+    align-items: center;
+    margin-right: 10px;
+}
